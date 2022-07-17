@@ -1,0 +1,44 @@
+LANG,EN
+LEV01_TEXT1,"Click the direction, where you want your ball to go"
+LEV01_TEXT2,"Each dice roll affects your shot power. The higher number gets, the more distance your ball will travel"
+LEV02_TEXT1,"Sometimes, it’s better to bounce the ball by walls to get across such small hole"
+LEV02_TEXT2,"...unless, you are lucky ;)"
+LEV02_TEXT3,Still stuck on that level?\n( ._.)
+LEV03_TEXT1,Remember!\n\nYour ball is NOT the only one affected by a dice randomness
+LEV03_TEXT2,Hover your mouse over enemies to get the info about them
+LEV04_TEXT1,"If you want to change the roll, click on the dice.\nBut remember, you cannot do that infinitely!"
+LEV04_TEXT2,Use walls to bounce your ball here!
+LEV04_TEXT3,"Move your mouse to the edges, to move the camera."
+LEV05_TEXT1,Wha--!? What this bomb is doing here!?\nCan you please get more info about it?
+LEV06_TEXT1,Uhhh...so...\n\nAre you alright?
+LEV09_TEXT1,Thanks for playing! ;)\n\nSee you later!
+LEV_MAIN,Level {0}
+LEV_UNKNOWNNAME,???
+LEV01_NAME,Random Beginning
+LEV02_NAME,Narrow Paths
+LEV03_NAME,All About Enemies
+LEV04_NAME,Maze of Safe Saves
+LEV05_NAME,Count on me!
+LEV06_NAME,Bomb Factory
+LEV07_NAME,Bouncy Castle
+LEV08_NAME,Shooter Playground
+LEV09_NAME,Final Trial
+REROLL_TEXT,"Click on the dice, to reroll\n({0} rerolls left)"
+REROLL_TEXT_ZERO,"Click on the dice, to reroll\n[color=#ff0000](0 rerolls left)[/color]"
+REROLL_TEXT_COOLDOWN,You can reroll the dice in {0} seconds.
+CHECKPOINT_GOT,Checkpoint!
+INFO_TURRET_NAME,Turret
+INFO_TURRET_DESC,Shoots out bullets in a straight line.\n[color=#ff3333]Dice role affects the number of shooted projectiles.[/color]
+INFO_TIMEBOMB_NAME,Time Bomb
+INFO_TIMEBOMB_DESC,"Has countdown, that [color=#ff3333]goes down by a rolled number[/color].\nWhen it reaches 0, it shoots out three waves of small energy balls in every direction."
+INFO_BOUNCER_NAME,Bouncer
+INFO_BOUNCER_DESC,"Shoots out one bouncy bullet in a random direction, that will gain speed for every bounce. [color=#ff3333]Dice role affects the number of maximum bounces for that ball.[/color]"
+INTRO_TEXT1,PRESENTS
+INTRO_TEXT2,MADE
+INTRO_TEXT3,FOR
+MENU_START,Start
+MENU_CREDITS,Credits
+MENU_DOWNTEXT,Bit Studio 2022; Made for GMTK Game Jam 2022
+MENU_CREDITS_TEXT,[color=#00AA00]Coding / Art / Music[/color]\nBitowsky\n\n[color=#00AA00]Testing[/color]\n[tester names]\n\n[color=#AA00AA][size=18]Made for GMTK Game Jam 2022 („Roll of the Dice”)[/size][/color]
+LEVPICK_TEXT,"Game will storage your progress in your Browser.\nYou won't be able to reload your progress on other Browser, if you save it here.\n\nTo reset your progress, restart the game and hold the ‘R’ key, before intro will start playing."
+END_TEXT,[size=45]Thanks for playing![/size]\n\nThis game was created by [color=#00BB00]Bit Studio[/color] for [color=#ff6666]GMTK Game Jam 2022 („Roll of the Dice”)[/color]\n\nSee you in a next event!

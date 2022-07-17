@@ -1,0 +1,10 @@
+PLAYED_LEV,NEXT_LEV
+lev01,lev02
+lev02,lev03
+lev03,lev04
+lev04,lev05
+lev05,lev06
+lev06,lev07
+lev07,lev08
+lev08,lev09
+lev09,end
